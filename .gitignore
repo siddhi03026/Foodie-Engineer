@@ -6,6 +6,4 @@ backend/.env
 flavorful-substitutions/node_modules/
 
 
-# Common
-node_modules/
-.env
+
