@@ -1,1 +1,11 @@
-./backend/.env
+# Backend
+backend/node_modules/
+backend/.env
+
+# Frontend
+flavorful-substitutions/node_modules/
+
+
+# Common
+node_modules/
+.env
